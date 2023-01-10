@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+
+header {
+    background-image: url("../images/banner/banner1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.btn-primary {
+    background: #FFFFFF;
+    border-radius: 5px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    border: 0;
+    padding: 20px 35px;
+}
+
+/* banner styles */
+.banner {
+    border: 0;
+    margin: 0;
+
+
+    padding-left: 845px;
+
+    text-align: right;
+
+
+}
+
+.banner-title {
+    color: #151414;
+    font-weight: 600px;
+    font-size: 60px;
+    padding-top: 216px;
+
+
+
+}
+
+.banner-description {
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+
+.contact-btn {
+
+
+    height: 60px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    margin-bottom: 160px;
+    padding: 20px 25px;
+
+    align-items: right;
+
+}
+
+/* failures sections styles */
+.failures {
+    display: flex;
+    padding-bottom: 16px;
+}
+
+.person {
+    padding-top: 115px;
+    padding-right: 90px;
+}
+
+.failure-title {
+    padding-top: 370px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    padding-right: 450px;
+}
+
+.failure-text {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+}
+
+.failure-list {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 635px;
+
+
+}
+
+/* My plans styles */
+.my-plan {
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 56px;
+}
+
+.plans-container {
+    display: flex;
+    padding-left: 220px;
+    justify-content: space-around;
+    padding-bottom: 190px;
+
+
+
+}
+
+.plan {
+    padding-right: 90px;
+
+
+}
+
+.plan h4,
+p {
+    padding-top: 6px;
+}
+
+.mindset {
+
+    padding-right: 230px;
+
+    align-items: center;
+    background-image: url("/images/watch.png"), url("/images/gradient2.png");
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    background-blend-mode: overlay;
+    align-items: center;
+    margin-left: 230px;
+    margin-right: 230px;
+
+
+    padding-left: 65px;
+    padding-bottom: 130px;
+}
+
+.mindset-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 25px;
+    padding-top: 60px;
+
+}
+
+/* About Me section */
+
+.about-me {
+    background: #F15B22;
+}
+
+.about {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+
+.about-me-details,
+#yes,
+#no {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+
+}
+
+#img {
+    max-width: 100%;
+    max-height: 100vh;
+}
+
+#muffin {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+/* Footer styles */
+
+.contain-footer{
+    display: flex;
+    background: #151414;
+    width: auto;
+height: 577px;
+}
+.end-title1{
+    color: #F8F8F8;
+    font-weight: 700;
+font-size: 45px;
+padding-top: 110px;
+padding-left: 230px;
+}
+.end-descrip{
+    color: #FFFFFF;
+    font-weight: 400;
+font-size: 16px;
+padding-top: 20px;
+padding-left: 230px;
+width: 485px;
+height: 78px;
+
+}
+
+.end-title2{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 25px;
+padding-top: 110px;
+padding-left: 200px;
+padding-bottom: 30px;
+}
+
+#email{
+    width: 325px;
+height: 64px;
+border: 1px solid #FFFFFF;
+background-color: #151414;
+
+text-align: center;
+font-weight: 400;
+font-size: 18px;
+margin-left: 200px;
+
+}
+.info{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+#btn-sub{
+    margin-left: 200px;
+    margin-top: 17px;
+}
