@@ -141,7 +141,7 @@ p {
     padding-right: 230px;
 
     align-items: center;
-    background-image: url("images/watch.png"), url("images/gradient2.png");
+    background-image: url("../images/watch.png"), url("../images/gradient1.png");
     background-repeat: no-repeat;
     border-radius: 8px;
     background-blend-mode: overlay;
